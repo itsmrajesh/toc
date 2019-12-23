@@ -1,7 +1,8 @@
 # Table of contents 
 
-Table of Contents (TOC) will be having information about all my github repositories
+Table of Contents (TOC) will be having all information about my projects pushed in GitHub
 
+# Projects
 
 | Sl No | Project Name |Project Type| Link |
 | :---:    | :---:    |:---: |:---: |
